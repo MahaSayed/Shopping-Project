@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.ShopppingApplication.LogInActivity">
+
+    <EditText
+        android:id="@+id/login_username"
+        android:layout_width="301dp"
+        android:layout_height="wrap_content"
+        android:layout_x="66dp"
+        android:layout_y="128dp"
+        android:ems="10"
+        android:hint="Username"
+        android:inputType="textPersonName"
+        android:paddingTop="5dp"
+        android:paddingBottom="15dp"
+        android:textColor="@android:color/black"
+        android:textColorHint="?attr/colorButtonNormal" />
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="wrap_content"
+        android:layout_height="35dp"
+        android:layout_x="29dp"
+        android:layout_y="133dp"
+        app:srcCompat="@drawable/ic_person"
+        tools:ignore="VectorDrawableCompat" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="wrap_content"
+        android:layout_height="34dp"
+        android:layout_x="29dp"
+        android:layout_y="191dp"
+        app:srcCompat="@drawable/ic_lock"
+        tools:ignore="VectorDrawableCompat" />
+
+    <CheckBox
+        android:id="@+id/checkBox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="68dp"
+        android:layout_y="250dp"
+        android:text="Remember me"
+        android:textColor="@android:color/black"
+        android:textStyle="italic"
+        tools:layout_editor_absoluteX="91dp"
+        tools:layout_editor_absoluteY="276dp" />
+
+    <CheckedTextView
+        android:id="@+id/ForgetPass"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="244dp"
+        android:layout_y="257dp"
+        android:onClick="ForgetPasswordChecked"
+        android:text="Forget Password?"
+        android:textColor="@android:color/black"
+        android:textStyle="italic" />
+
+    <EditText
+        android:id="@+id/login_password"
+        android:layout_width="302dp"
+        android:layout_height="wrap_content"
+        android:layout_x="66dp"
+        android:layout_y="185dp"
+        android:ems="10"
+        android:hint="Password"
+        android:inputType="textPassword"
+        android:paddingTop="5dp"
+        android:paddingBottom="15dp"
+        android:textColor="@android:color/black"
+        android:textColorHint="?attr/colorButtonNormal" />
+
+    <Button
+        android:id="@+id/Login_Btn"
+        android:layout_width="153dp"
+        android:layout_height="wrap_content"
+        android:layout_x="131dp"
+        android:layout_y="378dp"
+        android:text="LOGIN"
+        android:textColor="@android:color/black"
+        android:textStyle="normal" />
+
+    <CheckedTextView
+        android:id="@+id/RegisterChecked"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="239dp"
+        android:layout_y="448dp"
+        android:onClick="RegisterChecked"
+        android:text="Register Now"
+        android:textColor="@color/colorAccent"
+        android:textSize="17dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="86dp"
+        android:layout_y="448dp"
+        android:text="Not a member yet?"
+        android:textColor="@android:color/black"
+        android:textSize="17dp"
+        android:textStyle="bold" />
+
+</AbsoluteLayout>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.ShopppingApplication.OrderActivity">
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="19dp"
+        android:layout_y="33dp"
+        android:text="Please enter your address : "
+        android:textColor="@color/common_google_signin_btn_text_dark_focused"
+        android:textSize="17dp"
+        android:textStyle="bold|italic" />
+
+    <EditText
+        android:id="@+id/street_txt"
+        android:layout_width="380dp"
+        android:layout_height="wrap_content"
+        android:layout_x="30dp"
+        android:layout_y="139dp"
+        android:ems="10"
+        android:hint="Street*"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/building_txt"
+        android:layout_width="380dp"
+        android:layout_height="wrap_content"
+        android:layout_x="30dp"
+        android:layout_y="194dp"
+        android:ems="10"
+        android:hint="Building*"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/city_txt"
+        android:layout_width="380dp"
+        android:layout_height="wrap_content"
+        android:layout_x="30dp"
+        android:layout_y="83dp"
+        android:ems="10"
+        android:hint="City*"
+        android:inputType="textPersonName" />
+
+    <Button
+        android:id="@+id/confirm_btn"
+        android:layout_width="304dp"
+        android:layout_height="wrap_content"
+        android:layout_x="50dp"
+        android:layout_y="335dp"
+        android:background="#B19CD9"
+        android:onClick="Confirm_Btn_Clicked"
+        android:text="Confirm"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/map_Btn"
+        android:layout_width="306dp"
+        android:layout_height="wrap_content"
+        android:layout_x="49dp"
+        android:layout_y="423dp"
+        android:background="@drawable/common_google_signin_btn_text_light_focused"
+        android:onClick="Map_Btn_Clicked"
+        android:text="get my current location     "
+        android:textAlignment="gravity" />
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="188dp"
+        android:layout_y="393dp"
+        android:text="OR"
+        android:textStyle="bold" />
+
+</AbsoluteLayout>

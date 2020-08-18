@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="115dp">
+
+    <TextView
+        android:id="@+id/textView13"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/prod_name"
+        android:layout_alignBottom="@+id/prod_name"
+        android:layout_alignLeft="@+id/textView12"
+        android:layout_alignStart="@+id/textView12"
+        android:layout_marginTop="30dp"
+        android:layout_x="31dp"
+        android:layout_y="24dp"
+        android:text="Name :"
+        android:textColor="@android:color/background_dark"
+        android:textSize="12dp" />
+
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/quantity_txt"
+        android:layout_alignBottom="@+id/quantity_txt"
+        android:layout_alignLeft="@+id/textView12"
+        android:layout_alignStart="@+id/textView12"
+        android:layout_marginBottom="15dp"
+        android:layout_x="32dp"
+        android:layout_y="76dp"
+        android:text="Qty :    "
+        android:textColor="@android:color/background_dark"
+        android:textSize="12dp" />
+
+    <TextView
+        android:id="@+id/textView12"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/prod_price"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginLeft="19dp"
+        android:layout_marginStart="19dp"
+        android:layout_x="32dp"
+        android:layout_y="50dp"
+        android:text="Price :"
+        android:textColor="@android:color/background_dark"
+        android:textSize="12dp" />
+
+    <TextView
+        android:id="@+id/prod_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/textView12"
+        android:layout_alignLeft="@+id/prod_price"
+        android:layout_alignStart="@+id/prod_price"
+        android:layout_x="84dp"
+        android:layout_y="21dp"
+        android:text="TextView"
+        android:textSize="16dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/prod_price"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/textView11"
+        android:layout_marginLeft="17dp"
+        android:layout_marginStart="17dp"
+        android:layout_toEndOf="@+id/textView13"
+        android:layout_toRightOf="@+id/textView13"
+        android:layout_x="84dp"
+        android:layout_y="47dp"
+        android:text="TextView"
+        android:textSize="16dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/quantity_txt"
+        android:layout_width="30dp"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/minus_button"
+        android:layout_alignBottom="@+id/minus_button"
+        android:layout_marginBottom="15dp"
+        android:layout_toEndOf="@+id/minus_button"
+        android:layout_toRightOf="@+id/minus_button"
+        android:layout_x="106dp"
+        android:layout_y="74dp"
+        android:textAlignment="center"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/plus_button"
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:layout_alignTop="@+id/minus_button"
+        android:layout_marginBottom="15dp"
+        android:layout_toEndOf="@+id/quantity_txt"
+        android:layout_toRightOf="@+id/quantity_txt"
+        android:layout_x="137dp"
+        android:layout_y="71dp"
+        android:background="@drawable/ic_plus"
+        android:focusable="false"
+        android:focusableInTouchMode="false" />
+
+    <Button
+        android:id="@+id/minus_button"
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:layout_alignLeft="@+id/prod_price"
+        android:layout_alignParentTop="true"
+        android:layout_alignStart="@+id/prod_price"
+        android:layout_marginBottom="15dp"
+        android:layout_marginTop="69dp"
+        android:layout_x="80dp"
+        android:layout_y="71dp"
+        android:background="@drawable/ic_minus"
+        android:focusable="false"
+        android:focusableInTouchMode="false" />
+
+</AbsoluteLayout>

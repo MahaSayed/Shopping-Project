@@ -1,0 +1,363 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:2:1-79:12
+INJECTED from C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:2:1-79:12
+INJECTED from C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:2:1-79:12
+INJECTED from C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:2:1-79:12
+MERGED from C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:2:1-79:12
+MERGED from [com.android.support:design:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\0bcf2e97a63ea0c99df3f827bccd936f\design-26.1.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:mediarouter-v7:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\b3e4330506facb28d1c94b73b31b2f02\mediarouter-v7-26.1.0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\c589bb7ec2d841c67ae68a3682166223\appcompat-v7-26.1.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\0be8ac9c669ca43ba2dbd9e15aa86d41\constraint-layout-1.0.2\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:transition:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\667c0794a875ffad7719d0fcaf314a14\transition-26.1.0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-maps:11.6.2] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\8e474af7fbdb7d3c273c778fd96b5c17\play-services-maps-11.6.2\AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\5fdbe254f29918d567d17ed5be12ca8b\play-services-base-11.6.2\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-tasks:11.6.2] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\8ba9a212b6ba27d613fac5691a4e4646\play-services-tasks-11.6.2\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:11.6.2] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\6066c7c7d60cf9e256c77220feebbcd3\play-services-basement-11.6.2\AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\9f83784eeafe2d776a50e825ed305ad1\support-v4-26.1.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\135e175a0ef22ce0a476b55a11aa6553\animated-vector-drawable-26.1.0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\1a321b7ca993b48f74ebfe2a4c780bca\support-vector-drawable-26.1.0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\c4ad4aa58b9c65344de47a005c792934\recyclerview-v7-26.1.0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\76255774f047056d070aaccfb1365509\support-media-compat-26.1.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\835b00f0eaa3a4dded0721b4e7a325bd\support-fragment-26.1.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:palette-v7:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\2c460db33825ddc3fc60ec08e1b203a5\palette-v7-26.1.0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\e60f63cc7ce4683a1fb220948dd8c54d\support-core-utils-26.1.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\54addbd48bc777bd7c2feb0c98546e12\support-core-ui-26.1.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\40a3342781d7a4b08caa38af177e1b14\support-compat-26.1.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-maps-license:11.6.2] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\0ca58cafbbf722bcc1a8bc371ba9b9eb\play-services-maps-license-11.6.2\AndroidManifest.xml:2:1-6:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\d0f6449185399ce77e6ff49656abaac3\runtime-1.0.0\AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.android.gms:play-services-base-license:11.6.2] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\f08fa3bc946895baf4218214bc334c6f\play-services-base-license-11.6.2\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.2] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\ee5477fba3037f90ccba0287fc37e3c3\play-services-basement-license-11.6.2\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.2] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\e1e83cb8783075484baac4b780e60ff4\play-services-tasks-license-11.6.2\AndroidManifest.xml:2:1-6:12
+INJECTED from C:\Users\sayed\Desktop\Shopping Project\app\src\debug\AndroidManifest.xml:2:1-12:12
+INJECTED from C:\Users\sayed\Desktop\Shopping Project\app\src\debug\AndroidManifest.xml:2:1-12:12
+INJECTED from C:\Users\sayed\Desktop\Shopping Project\app\src\debug\AndroidManifest.xml:2:1-12:12
+	package
+		ADDED from C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:3:5-47
+		INJECTED from C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:3:5-47
+		INJECTED from C:\Users\sayed\Desktop\Shopping Project\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:2:1-79:12
+		INJECTED from C:\Users\sayed\Desktop\Shopping Project\app\src\debug\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:2:1-79:12
+		INJECTED from C:\Users\sayed\Desktop\Shopping Project\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:12:5-67
+MERGED from [com.google.android.gms:play-services-maps:11.6.2] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\8e474af7fbdb7d3c273c778fd96b5c17\play-services-maps-11.6.2\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:11.6.2] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\8e474af7fbdb7d3c273c778fd96b5c17\play-services-maps-11.6.2\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:12:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:13:5-79
+MERGED from [com.google.android.gms:play-services-maps:11.6.2] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\8e474af7fbdb7d3c273c778fd96b5c17\play-services-maps-11.6.2\AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-maps:11.6.2] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\8e474af7fbdb7d3c273c778fd96b5c17\play-services-maps-11.6.2\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:14:22-78
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:15:5-98
+	android:name
+		ADDED from C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:15:22-95
+application
+ADDED from C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:17:5-77:19
+MERGED from C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:17:5-77:19
+MERGED from C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:17:5-77:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\0bcf2e97a63ea0c99df3f827bccd936f\design-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\0bcf2e97a63ea0c99df3f827bccd936f\design-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:mediarouter-v7:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\b3e4330506facb28d1c94b73b31b2f02\mediarouter-v7-26.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:mediarouter-v7:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\b3e4330506facb28d1c94b73b31b2f02\mediarouter-v7-26.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\c589bb7ec2d841c67ae68a3682166223\appcompat-v7-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\c589bb7ec2d841c67ae68a3682166223\appcompat-v7-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\0be8ac9c669ca43ba2dbd9e15aa86d41\constraint-layout-1.0.2\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\0be8ac9c669ca43ba2dbd9e15aa86d41\constraint-layout-1.0.2\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:transition:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\667c0794a875ffad7719d0fcaf314a14\transition-26.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\667c0794a875ffad7719d0fcaf314a14\transition-26.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-maps:11.6.2] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\8e474af7fbdb7d3c273c778fd96b5c17\play-services-maps-11.6.2\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-maps:11.6.2] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\8e474af7fbdb7d3c273c778fd96b5c17\play-services-maps-11.6.2\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\5fdbe254f29918d567d17ed5be12ca8b\play-services-base-11.6.2\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\5fdbe254f29918d567d17ed5be12ca8b\play-services-base-11.6.2\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.6.2] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\8ba9a212b6ba27d613fac5691a4e4646\play-services-tasks-11.6.2\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.6.2] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\8ba9a212b6ba27d613fac5691a4e4646\play-services-tasks-11.6.2\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.6.2] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\6066c7c7d60cf9e256c77220feebbcd3\play-services-basement-11.6.2\AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:11.6.2] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\6066c7c7d60cf9e256c77220feebbcd3\play-services-basement-11.6.2\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\9f83784eeafe2d776a50e825ed305ad1\support-v4-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\9f83784eeafe2d776a50e825ed305ad1\support-v4-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\135e175a0ef22ce0a476b55a11aa6553\animated-vector-drawable-26.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\135e175a0ef22ce0a476b55a11aa6553\animated-vector-drawable-26.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\1a321b7ca993b48f74ebfe2a4c780bca\support-vector-drawable-26.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\1a321b7ca993b48f74ebfe2a4c780bca\support-vector-drawable-26.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\c4ad4aa58b9c65344de47a005c792934\recyclerview-v7-26.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\c4ad4aa58b9c65344de47a005c792934\recyclerview-v7-26.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\76255774f047056d070aaccfb1365509\support-media-compat-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\76255774f047056d070aaccfb1365509\support-media-compat-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\835b00f0eaa3a4dded0721b4e7a325bd\support-fragment-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\835b00f0eaa3a4dded0721b4e7a325bd\support-fragment-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:palette-v7:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\2c460db33825ddc3fc60ec08e1b203a5\palette-v7-26.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:palette-v7:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\2c460db33825ddc3fc60ec08e1b203a5\palette-v7-26.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\e60f63cc7ce4683a1fb220948dd8c54d\support-core-utils-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\e60f63cc7ce4683a1fb220948dd8c54d\support-core-utils-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\54addbd48bc777bd7c2feb0c98546e12\support-core-ui-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\54addbd48bc777bd7c2feb0c98546e12\support-core-ui-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\40a3342781d7a4b08caa38af177e1b14\support-compat-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\40a3342781d7a4b08caa38af177e1b14\support-compat-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.android.gms:play-services-maps-license:11.6.2] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\0ca58cafbbf722bcc1a8bc371ba9b9eb\play-services-maps-license-11.6.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:11.6.2] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\0ca58cafbbf722bcc1a8bc371ba9b9eb\play-services-maps-license-11.6.2\AndroidManifest.xml:5:5-20
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\d0f6449185399ce77e6ff49656abaac3\runtime-1.0.0\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\d0f6449185399ce77e6ff49656abaac3\runtime-1.0.0\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.android.gms:play-services-base-license:11.6.2] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\f08fa3bc946895baf4218214bc334c6f\play-services-base-license-11.6.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.6.2] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\f08fa3bc946895baf4218214bc334c6f\play-services-base-license-11.6.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.2] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\ee5477fba3037f90ccba0287fc37e3c3\play-services-basement-license-11.6.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.2] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\ee5477fba3037f90ccba0287fc37e3c3\play-services-basement-license-11.6.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.2] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\e1e83cb8783075484baac4b780e60ff4\play-services-tasks-license-11.6.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.2] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\e1e83cb8783075484baac4b780e60ff4\play-services-tasks-license-11.6.2\AndroidManifest.xml:5:5-20
+	android:supportsRtl
+		ADDED from C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:22:9-35
+		ADDED from C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:22:9-35
+	android:label
+		ADDED from C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:20:9-57
+		ADDED from C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:20:9-57
+	android:roundIcon
+		ADDED from C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:21:9-54
+		ADDED from C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:21:9-54
+	android:icon
+		ADDED from C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:19:9-43
+		ADDED from C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:19:9-43
+	android:allowBackup
+		ADDED from C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:18:9-35
+		ADDED from C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:18:9-35
+	android:theme
+		ADDED from C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:23:9-40
+		ADDED from C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:23:9-40
+activity#com.example.ShopppingApplication.LogInActivity
+ADDED from C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:24:9-32:20
+	android:label
+		ADDED from C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:26:13-36
+	android:name
+		ADDED from C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:25:13-74
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:30:27-74
+activity#com.example.ShopppingApplication.SignupActivity
+ADDED from C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:33:9-35:39
+	android:label
+		ADDED from C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:35:13-36
+	android:name
+		ADDED from C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:34:13-75
+activity#com.example.ShopppingApplication.CalendarActivity
+ADDED from C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:36:9-38:40
+	android:label
+		ADDED from C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:37:13-77
+activity#com.example.ShopppingApplication.ForgetPassActivity
+ADDED from C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:39:9-88
+	android:name
+		ADDED from C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:39:19-85
+activity#com.example.ShopppingApplication.ProductInfoActivity
+ADDED from C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:40:9-42:39
+	android:label
+		ADDED from C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:42:13-36
+	android:name
+		ADDED from C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:41:13-80
+activity#com.example.ShopppingApplication.Categories
+ADDED from C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:43:9-45:42
+	android:label
+		ADDED from C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:45:13-39
+	android:name
+		ADDED from C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:44:13-71
+activity#com.example.ShopppingApplication.Products
+ADDED from C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:46:9-48:40
+	android:label
+		ADDED from C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:48:13-37
+	android:name
+		ADDED from C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:47:13-69
+activity#com.example.ShopppingApplication.ShoppingCart
+ADDED from C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:49:9-51:36
+	android:label
+		ADDED from C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:51:13-33
+	android:name
+		ADDED from C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:50:13-73
+activity#com.example.ShopppingApplication.SearchActivity
+ADDED from C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:52:9-54:50
+	android:label
+		ADDED from C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:54:13-47
+	android:name
+		ADDED from C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:53:13-75
+activity#com.example.ShopppingApplication.OrderActivity
+ADDED from C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:55:9-57:38
+	android:label
+		ADDED from C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:57:13-35
+	android:name
+		ADDED from C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:56:13-74
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:66:9-68:69
+MERGED from [com.google.android.gms:play-services-basement:11.6.2] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\6066c7c7d60cf9e256c77220feebbcd3\play-services-basement-11.6.2\AndroidManifest.xml:20:9-121
+MERGED from [com.google.android.gms:play-services-basement:11.6.2] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\6066c7c7d60cf9e256c77220feebbcd3\play-services-basement-11.6.2\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:68:13-66
+	android:name
+		ADDED from C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:67:13-58
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:69:9-71:55
+	android:value
+		ADDED from C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:71:13-52
+	android:name
+		ADDED from C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:70:13-58
+activity#com.example.ShopppingApplication.MapsActivity
+ADDED from C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:73:9-75:59
+	android:label
+		ADDED from C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:75:13-56
+	android:name
+		ADDED from C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:74:13-73
+uses-sdk
+INJECTED from C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\0bcf2e97a63ea0c99df3f827bccd936f\design-26.1.0\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\0bcf2e97a63ea0c99df3f827bccd936f\design-26.1.0\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:mediarouter-v7:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\b3e4330506facb28d1c94b73b31b2f02\mediarouter-v7-26.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:mediarouter-v7:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\b3e4330506facb28d1c94b73b31b2f02\mediarouter-v7-26.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\c589bb7ec2d841c67ae68a3682166223\appcompat-v7-26.1.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\c589bb7ec2d841c67ae68a3682166223\appcompat-v7-26.1.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\0be8ac9c669ca43ba2dbd9e15aa86d41\constraint-layout-1.0.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\0be8ac9c669ca43ba2dbd9e15aa86d41\constraint-layout-1.0.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:transition:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\667c0794a875ffad7719d0fcaf314a14\transition-26.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\667c0794a875ffad7719d0fcaf314a14\transition-26.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:11.6.2] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\8e474af7fbdb7d3c273c778fd96b5c17\play-services-maps-11.6.2\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-maps:11.6.2] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\8e474af7fbdb7d3c273c778fd96b5c17\play-services-maps-11.6.2\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\5fdbe254f29918d567d17ed5be12ca8b\play-services-base-11.6.2\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\5fdbe254f29918d567d17ed5be12ca8b\play-services-base-11.6.2\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.6.2] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\8ba9a212b6ba27d613fac5691a4e4646\play-services-tasks-11.6.2\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.6.2] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\8ba9a212b6ba27d613fac5691a4e4646\play-services-tasks-11.6.2\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.6.2] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\6066c7c7d60cf9e256c77220feebbcd3\play-services-basement-11.6.2\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.6.2] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\6066c7c7d60cf9e256c77220feebbcd3\play-services-basement-11.6.2\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\9f83784eeafe2d776a50e825ed305ad1\support-v4-26.1.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\9f83784eeafe2d776a50e825ed305ad1\support-v4-26.1.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\135e175a0ef22ce0a476b55a11aa6553\animated-vector-drawable-26.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\135e175a0ef22ce0a476b55a11aa6553\animated-vector-drawable-26.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\1a321b7ca993b48f74ebfe2a4c780bca\support-vector-drawable-26.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\1a321b7ca993b48f74ebfe2a4c780bca\support-vector-drawable-26.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\c4ad4aa58b9c65344de47a005c792934\recyclerview-v7-26.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\c4ad4aa58b9c65344de47a005c792934\recyclerview-v7-26.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\76255774f047056d070aaccfb1365509\support-media-compat-26.1.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\76255774f047056d070aaccfb1365509\support-media-compat-26.1.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\835b00f0eaa3a4dded0721b4e7a325bd\support-fragment-26.1.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\835b00f0eaa3a4dded0721b4e7a325bd\support-fragment-26.1.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:palette-v7:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\2c460db33825ddc3fc60ec08e1b203a5\palette-v7-26.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\2c460db33825ddc3fc60ec08e1b203a5\palette-v7-26.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\e60f63cc7ce4683a1fb220948dd8c54d\support-core-utils-26.1.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\e60f63cc7ce4683a1fb220948dd8c54d\support-core-utils-26.1.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\54addbd48bc777bd7c2feb0c98546e12\support-core-ui-26.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\54addbd48bc777bd7c2feb0c98546e12\support-core-ui-26.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\40a3342781d7a4b08caa38af177e1b14\support-compat-26.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\40a3342781d7a4b08caa38af177e1b14\support-compat-26.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.google.android.gms:play-services-maps-license:11.6.2] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\0ca58cafbbf722bcc1a8bc371ba9b9eb\play-services-maps-license-11.6.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-maps-license:11.6.2] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\0ca58cafbbf722bcc1a8bc371ba9b9eb\play-services-maps-license-11.6.2\AndroidManifest.xml:4:5-43
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\d0f6449185399ce77e6ff49656abaac3\runtime-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\d0f6449185399ce77e6ff49656abaac3\runtime-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-base-license:11.6.2] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\f08fa3bc946895baf4218214bc334c6f\play-services-base-license-11.6.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.6.2] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\f08fa3bc946895baf4218214bc334c6f\play-services-base-license-11.6.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.2] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\ee5477fba3037f90ccba0287fc37e3c3\play-services-basement-license-11.6.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.2] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\ee5477fba3037f90ccba0287fc37e3c3\play-services-basement-license-11.6.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.2] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\e1e83cb8783075484baac4b780e60ff4\play-services-tasks-license-11.6.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.2] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\e1e83cb8783075484baac4b780e60ff4\play-services-tasks-license-11.6.2\AndroidManifest.xml:4:5-43
+INJECTED from C:\Users\sayed\Desktop\Shopping Project\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\sayed\Desktop\Shopping Project\app\src\debug\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\0bcf2e97a63ea0c99df3f827bccd936f\design-26.1.0\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sayed\Desktop\Shopping Project\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sayed\Desktop\Shopping Project\app\src\debug\AndroidManifest.xml
+activity#com.example.ShopppingApplication.OrderDetailsActivity
+ADDED from C:\Users\sayed\Desktop\Shopping Project\app\src\debug\AndroidManifest.xml:5:9-7:45
+	android:label
+		ADDED from C:\Users\sayed\Desktop\Shopping Project\app\src\debug\AndroidManifest.xml:7:13-42
+	android:name
+		ADDED from C:\Users\sayed\Desktop\Shopping Project\app\src\debug\AndroidManifest.xml:6:13-81
+activity#com.example.ShopppingApplication.MyOrders
+ADDED from C:\Users\sayed\Desktop\Shopping Project\app\src\debug\AndroidManifest.xml:8:9-78
+	android:name
+		ADDED from C:\Users\sayed\Desktop\Shopping Project\app\src\debug\AndroidManifest.xml:8:19-75
+activity#com.example.ShopppingApplication.Test
+ADDED from C:\Users\sayed\Desktop\Shopping Project\app\src\debug\AndroidManifest.xml:9:9-83
+	android:name
+		ADDED from C:\Users\sayed\Desktop\Shopping Project\app\src\debug\AndroidManifest.xml:9:19-71
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\0bcf2e97a63ea0c99df3f827bccd936f\design-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:mediarouter-v7:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\b3e4330506facb28d1c94b73b31b2f02\mediarouter-v7-26.1.0\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:mediarouter-v7:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\b3e4330506facb28d1c94b73b31b2f02\mediarouter-v7-26.1.0\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\c589bb7ec2d841c67ae68a3682166223\appcompat-v7-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\c589bb7ec2d841c67ae68a3682166223\appcompat-v7-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\667c0794a875ffad7719d0fcaf314a14\transition-26.1.0\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\667c0794a875ffad7719d0fcaf314a14\transition-26.1.0\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\9f83784eeafe2d776a50e825ed305ad1\support-v4-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\9f83784eeafe2d776a50e825ed305ad1\support-v4-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\135e175a0ef22ce0a476b55a11aa6553\animated-vector-drawable-26.1.0\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\135e175a0ef22ce0a476b55a11aa6553\animated-vector-drawable-26.1.0\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\1a321b7ca993b48f74ebfe2a4c780bca\support-vector-drawable-26.1.0\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\1a321b7ca993b48f74ebfe2a4c780bca\support-vector-drawable-26.1.0\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\c4ad4aa58b9c65344de47a005c792934\recyclerview-v7-26.1.0\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\c4ad4aa58b9c65344de47a005c792934\recyclerview-v7-26.1.0\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\76255774f047056d070aaccfb1365509\support-media-compat-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\76255774f047056d070aaccfb1365509\support-media-compat-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\835b00f0eaa3a4dded0721b4e7a325bd\support-fragment-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\835b00f0eaa3a4dded0721b4e7a325bd\support-fragment-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:palette-v7:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\2c460db33825ddc3fc60ec08e1b203a5\palette-v7-26.1.0\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:palette-v7:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\2c460db33825ddc3fc60ec08e1b203a5\palette-v7-26.1.0\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\e60f63cc7ce4683a1fb220948dd8c54d\support-core-utils-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\e60f63cc7ce4683a1fb220948dd8c54d\support-core-utils-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\54addbd48bc777bd7c2feb0c98546e12\support-core-ui-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\54addbd48bc777bd7c2feb0c98546e12\support-core-ui-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\40a3342781d7a4b08caa38af177e1b14\support-compat-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\40a3342781d7a4b08caa38af177e1b14\support-compat-26.1.0\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\0bcf2e97a63ea0c99df3f827bccd936f\design-26.1.0\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\0bcf2e97a63ea0c99df3f827bccd936f\design-26.1.0\AndroidManifest.xml:27:13-51
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.6.2] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\8e474af7fbdb7d3c273c778fd96b5c17\play-services-maps-11.6.2\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.6.2] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\8e474af7fbdb7d3c273c778fd96b5c17\play-services-maps-11.6.2\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.6.2] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\8e474af7fbdb7d3c273c778fd96b5c17\play-services-maps-11.6.2\AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\5fdbe254f29918d567d17ed5be12ca8b\play-services-base-11.6.2\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\5fdbe254f29918d567d17ed5be12ca8b\play-services-base-11.6.2\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\5fdbe254f29918d567d17ed5be12ca8b\play-services-base-11.6.2\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\5fdbe254f29918d567d17ed5be12ca8b\play-services-base-11.6.2\AndroidManifest.xml:19:19-85
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\d0f6449185399ce77e6ff49656abaac3\runtime-1.0.0\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\d0f6449185399ce77e6ff49656abaac3\runtime-1.0.0\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\d0f6449185399ce77e6ff49656abaac3\runtime-1.0.0\AndroidManifest.xml:26:13-58

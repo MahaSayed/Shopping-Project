@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.ShopppingApplication.ForgetPassActivity">
+
+    <LinearLayout
+        android:id="@+id/layout1"
+        android:layout_width="match_parent"
+        android:layout_height="173dp"
+        android:layout_x="0dp"
+        android:layout_y="42dp"
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/name_txt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_x="0dp"
+            android:layout_y="15dp"
+            android:ems="10"
+            android:hint="Your Username"
+            android:inputType="textPersonName" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="74dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="20dp"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="88dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:layout_x="3dp"
+                android:layout_y="70dp"
+                android:text="Your Birthdate"
+                android:textSize="18dp" />
+
+            <Button
+                android:id="@+id/calendarBtn2"
+                android:layout_width="2dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:layout_x="142dp"
+                android:layout_y="67dp"
+                android:background="@drawable/ic_date_range_black_24dp"
+                android:onClick="calendar_Btn" />
+
+            <TextView
+                android:id="@+id/dateText"
+                android:layout_width="58dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:layout_x="270dp"
+                android:layout_y="76dp"
+                android:text="dd/mm/yyyy"
+                android:textSize="14sp" />
+
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/OkBtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="0dp"
+            android:layout_weight="1"
+            android:layout_x="290dp"
+            android:layout_y="120dp"
+            android:background="#B19CD9"
+            android:onClick="OkBtn"
+            android:text="Ok"
+            android:textColor="@android:color/background_light" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/layout2"
+        android:layout_width="match_parent"
+        android:layout_height="469dp"
+        android:layout_y="43dp"
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/newPass_txt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="New Password"
+            android:inputType="textPersonName" />
+
+        <Button
+            android:id="@+id/submitBtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:onClick="SubmitBtn"
+            android:text="Submit" />
+
+    </LinearLayout>
+
+</AbsoluteLayout>

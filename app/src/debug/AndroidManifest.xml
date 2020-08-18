@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <application>
+        <activity
+            android:name="com.example.ShopppingApplication.OrderDetailsActivity"
+            android:label="Order Details" />
+        <activity android:name="com.example.ShopppingApplication.MyOrders" />
+        <activity android:name="com.example.ShopppingApplication.Test"></activity>
+    </application>
+
+</manifest>

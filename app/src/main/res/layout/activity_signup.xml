@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.ShopppingApplication.SignupActivity">
+
+    <EditText
+        android:id="@+id/signup_name"
+        android:layout_width="337dp"
+        android:layout_height="wrap_content"
+        android:layout_x="11dp"
+        android:layout_y="54dp"
+        android:ems="10"
+        android:hint="Name"
+        android:inputType="textPersonName"
+        android:textColorLink="@color/colorAccent" />
+
+    <EditText
+        android:id="@+id/signup_username"
+        android:layout_width="340dp"
+        android:layout_height="wrap_content"
+        android:layout_x="10dp"
+        android:layout_y="110dp"
+        android:ems="10"
+        android:hint="Username"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/signup_password"
+        android:layout_width="342dp"
+        android:layout_height="wrap_content"
+        android:layout_x="10dp"
+        android:layout_y="168dp"
+        android:ems="10"
+        android:hint="Password"
+        android:inputType="textPassword" />
+
+    <EditText
+        android:id="@+id/signup_job"
+        android:layout_width="342dp"
+        android:layout_height="wrap_content"
+        android:layout_x="10dp"
+        android:layout_y="362dp"
+        android:ems="10"
+        android:hint="Job"
+        android:inputType="textPersonName" />
+
+    <Button
+        android:id="@+id/SignUp_Btn"
+        android:layout_width="126dp"
+        android:layout_height="wrap_content"
+        android:layout_x="113dp"
+        android:layout_y="431dp"
+        android:background="#B19CD9"
+        android:onClick="SignUp_Btn"
+        android:text="Sign Up"
+        android:textColor="@android:color/black"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="87dp"
+        android:layout_height="wrap_content"
+        android:layout_x="11dp"
+        android:layout_y="236dp"
+        android:text="Gender"
+        android:textSize="18dp" />
+
+    <RadioGroup
+        android:layout_width="89dp"
+        android:layout_height="wrap_content"
+        android:layout_x="116dp"
+        android:layout_y="232dp">
+
+        <RadioButton
+            android:id="@+id/radioButton_Male"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_x="111dp"
+            android:layout_y="234dp"
+            android:text="Male" />
+
+        <RadioButton
+            android:id="@+id/radioButton_Female"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_x="184dp"
+            android:layout_y="234dp"
+            android:text="Female" />
+
+    </RadioGroup>
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="92dp"
+        android:layout_height="wrap_content"
+        android:layout_x="11dp"
+        android:layout_y="317dp"
+        android:text="BirhDate"
+        android:textSize="18dp" />
+
+    <Button
+        android:id="@+id/calendarBtn1"
+        android:layout_width="53dp"
+        android:layout_height="wrap_content"
+        android:layout_x="115dp"
+        android:layout_y="303dp"
+        android:background="@drawable/ic_date_range_black_24dp"
+        tools:layout_editor_absoluteX="272dp"
+        tools:layout_editor_absoluteY="225dp" />
+
+    <TextView
+        android:id="@+id/date_txt"
+        android:layout_width="112dp"
+        android:layout_height="wrap_content"
+        android:layout_x="211dp"
+        android:layout_y="317dp"
+        android:text="dd/mm/yyyy"
+        android:textSize="17dp"
+        tools:layout_editor_absoluteX="117dp"
+        tools:layout_editor_absoluteY="297dp" />
+
+</AbsoluteLayout>

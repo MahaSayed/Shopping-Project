@@ -1,0 +1,189 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.win8.myshopping"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="15"
+9        android:targetSdkVersion="26" />
+10
+11    <!--
+12         The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
+13         Google Maps Android API v2, but you must specify either coarse or fine
+14         location permissions for the 'MyLocation' functionality. 
+15    -->
+16    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+16-->C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:10:5-79
+16-->C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:10:22-76
+17    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+17-->C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:11:5-81
+17-->C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:11:22-78
+18    <uses-permission android:name="android.permission.INTERNET" />
+18-->C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:12:5-67
+18-->C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:12:22-64
+19    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+19-->C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:13:5-79
+19-->C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:13:22-76
+20    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+20-->C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:14:5-81
+20-->C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:14:22-78
+21    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+21-->C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:15:5-98
+21-->C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:15:22-95
+22
+23    <uses-feature
+23-->[com.google.android.gms:play-services-maps:11.6.2] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\8e474af7fbdb7d3c273c778fd96b5c17\play-services-maps-11.6.2\AndroidManifest.xml:21:5-77
+24        android:glEsVersion="0x00020000"
+24-->[com.google.android.gms:play-services-maps:11.6.2] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\8e474af7fbdb7d3c273c778fd96b5c17\play-services-maps-11.6.2\AndroidManifest.xml:21:19-51
+25        android:required="true" />
+25-->[com.google.android.gms:play-services-maps:11.6.2] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\8e474af7fbdb7d3c273c778fd96b5c17\play-services-maps-11.6.2\AndroidManifest.xml:21:52-75
+26
+27    <application
+27-->C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:17:5-77:19
+28        android:allowBackup="true"
+28-->C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:18:9-35
+29        android:debuggable="true"
+30        android:icon="@mipmap/ic_launcher"
+30-->C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:19:9-43
+31        android:label="Shopping Application (MahaSayed)"
+31-->C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:20:9-57
+32        android:roundIcon="@mipmap/ic_launcher_round"
+32-->C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:21:9-54
+33        android:supportsRtl="true"
+33-->C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:22:9-35
+34        android:theme="@style/AppTheme" >
+34-->C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:23:9-40
+35        <activity
+35-->C:\Users\sayed\Desktop\Shopping Project\app\src\debug\AndroidManifest.xml:5:9-7:45
+36            android:name="com.example.ShopppingApplication.OrderDetailsActivity"
+36-->C:\Users\sayed\Desktop\Shopping Project\app\src\debug\AndroidManifest.xml:6:13-81
+37            android:label="Order Details" />
+37-->C:\Users\sayed\Desktop\Shopping Project\app\src\debug\AndroidManifest.xml:7:13-42
+38        <activity android:name="com.example.ShopppingApplication.MyOrders" />
+38-->C:\Users\sayed\Desktop\Shopping Project\app\src\debug\AndroidManifest.xml:8:9-78
+38-->C:\Users\sayed\Desktop\Shopping Project\app\src\debug\AndroidManifest.xml:8:19-75
+39        <activity android:name="com.example.ShopppingApplication.Test" />
+39-->C:\Users\sayed\Desktop\Shopping Project\app\src\debug\AndroidManifest.xml:9:9-83
+39-->C:\Users\sayed\Desktop\Shopping Project\app\src\debug\AndroidManifest.xml:9:19-71
+40        <activity
+40-->C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:24:9-32:20
+41            android:name="com.example.ShopppingApplication.LogInActivity"
+41-->C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:25:13-74
+42            android:label="Sign In" >
+42-->C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:26:13-36
+43            <intent-filter>
+43-->C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:27:13-31:29
+44                <action android:name="android.intent.action.MAIN" />
+44-->C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:28:17-69
+44-->C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:28:25-66
+45
+46                <category android:name="android.intent.category.LAUNCHER" />
+46-->C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:30:17-77
+46-->C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:30:27-74
+47            </intent-filter>
+48        </activity>
+49        <activity
+49-->C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:33:9-35:39
+50            android:name="com.example.ShopppingApplication.SignupActivity"
+50-->C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:34:13-75
+51            android:label="Sigh Up" />
+51-->C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:35:13-36
+52        <activity
+52-->C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:36:9-38:40
+53            android:name="com.example.ShopppingApplication.CalendarActivity"
+53-->C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:37:13-77
+54            android:label="Calendar" />
+54-->C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:38:13-37
+55        <activity android:name="com.example.ShopppingApplication.ForgetPassActivity" />
+55-->C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:39:9-88
+55-->C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:39:19-85
+56        <activity
+56-->C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:40:9-42:39
+57            android:name="com.example.ShopppingApplication.ProductInfoActivity"
+57-->C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:41:13-80
+58            android:label="Product" />
+58-->C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:42:13-36
+59        <activity
+59-->C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:43:9-45:42
+60            android:name="com.example.ShopppingApplication.Categories"
+60-->C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:44:13-71
+61            android:label="Categories" />
+61-->C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:45:13-39
+62        <activity
+62-->C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:46:9-48:40
+63            android:name="com.example.ShopppingApplication.Products"
+63-->C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:47:13-69
+64            android:label="Products" />
+64-->C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:48:13-37
+65        <activity
+65-->C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:49:9-51:36
+66            android:name="com.example.ShopppingApplication.ShoppingCart"
+66-->C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:50:13-73
+67            android:label="Cart" />
+67-->C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:51:13-33
+68        <activity
+68-->C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:52:9-54:50
+69            android:name="com.example.ShopppingApplication.SearchActivity"
+69-->C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:53:13-75
+70            android:label="Search for Product" />
+70-->C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:54:13-47
+71        <activity
+71-->C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:55:9-57:38
+72            android:name="com.example.ShopppingApplication.OrderActivity"
+72-->C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:56:13-74
+73            android:label="Orders" />
+73-->C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:57:13-35
+74        <!--
+75             The API key for Google Maps-based APIs is defined as a string resource.
+76             (See the file "res/values/google_maps_api.xml").
+77             Note that the API key is linked to the encryption key used to sign the APK.
+78             You need a different API key for each encryption key, including the release key that is used to
+79             sign the APK for publishing.
+80             You can define the keys for the debug and release targets in src/debug/ and src/release/. 
+81        -->
+82        <meta-data
+82-->C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:66:9-68:69
+83            android:name="com.google.android.gms.version"
+83-->C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:67:13-58
+84            android:value="@integer/google_play_services_version" />
+84-->C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:68:13-66
+85        <meta-data
+85-->C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:69:9-71:55
+86            android:name="com.google.android.geo.API_KEY"
+86-->C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:70:13-58
+87            android:value="@string/google_maps_key" />
+87-->C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:71:13-52
+88
+89        <activity
+89-->C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:73:9-75:59
+90            android:name="com.example.ShopppingApplication.MapsActivity"
+90-->C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:74:13-73
+91            android:label="@string/title_activity_maps" />
+91-->C:\Users\sayed\Desktop\Shopping Project\app\src\main\AndroidManifest.xml:75:13-56
+92
+93        <meta-data
+93-->[com.android.support:design:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\0bcf2e97a63ea0c99df3f827bccd936f\design-26.1.0\AndroidManifest.xml:26:9-28:38
+94            android:name="android.support.VERSION"
+94-->[com.android.support:design:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\0bcf2e97a63ea0c99df3f827bccd936f\design-26.1.0\AndroidManifest.xml:27:13-51
+95            android:value="26.1.0" />
+95-->[com.android.support:design:26.1.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\0bcf2e97a63ea0c99df3f827bccd936f\design-26.1.0\AndroidManifest.xml:28:13-35
+96
+97        <activity
+97-->[com.google.android.gms:play-services-base:11.6.2] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\5fdbe254f29918d567d17ed5be12ca8b\play-services-base-11.6.2\AndroidManifest.xml:19:9-172
+98            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+98-->[com.google.android.gms:play-services-base:11.6.2] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\5fdbe254f29918d567d17ed5be12ca8b\play-services-base-11.6.2\AndroidManifest.xml:19:19-85
+99            android:exported="false"
+99-->[com.google.android.gms:play-services-base:11.6.2] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\5fdbe254f29918d567d17ed5be12ca8b\play-services-base-11.6.2\AndroidManifest.xml:19:146-170
+100            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+100-->[com.google.android.gms:play-services-base:11.6.2] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\5fdbe254f29918d567d17ed5be12ca8b\play-services-base-11.6.2\AndroidManifest.xml:19:86-145
+101
+102        <meta-data
+102-->[android.arch.lifecycle:runtime:1.0.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\d0f6449185399ce77e6ff49656abaac3\runtime-1.0.0\AndroidManifest.xml:25:9-27:47
+103            android:name="android.arch.lifecycle.VERSION"
+103-->[android.arch.lifecycle:runtime:1.0.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\d0f6449185399ce77e6ff49656abaac3\runtime-1.0.0\AndroidManifest.xml:26:13-58
+104            android:value="27.0.0-SNAPSHOT" />
+104-->[android.arch.lifecycle:runtime:1.0.0] C:\Users\sayed\.gradle\caches\transforms-2\files-2.1\d0f6449185399ce77e6ff49656abaac3\runtime-1.0.0\AndroidManifest.xml:27:13-44
+105    </application>
+106
+107</manifest>
